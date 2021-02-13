@@ -503,4 +503,5 @@ int main(int argc, char* argv[])
     outputPoints(&pointArray);
 
     return 0;
-}
+} 
+привет
